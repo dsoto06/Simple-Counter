@@ -22,9 +22,9 @@ setInterval(function() {
 
 	ReactDOM.render(
 		<SimpleCounter
-			digitOne={one}
-			digitTwo={two}
-			digitThree={three}
+			seconds={one}
+			minutes={two}
+			hour={three}
 			digitFour={four}
 		/>,
 		document.querySelector("#app")

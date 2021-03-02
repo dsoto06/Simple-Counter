@@ -1,14 +1,14 @@
 @import "~bootstrap/scss/bootstrap.scss";
 
-.bigCounter{
+.timer{
     text-align: center;
     background: black;
 }
-.bigCounter div{
+.timer div{
     display: inline-block;
-    font-size: 60px;
+    font-size: 50px;
     line-height: 60px;
-    background: #101010;
+    background: black;
     color: white;
     padding: 10px;
     margin: 3px;
