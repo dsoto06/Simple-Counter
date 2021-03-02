@@ -6,7 +6,7 @@ export const SimpleCounter = props => {
 	return (
 		<div className="timer">
 			<div className="clock">
-				<i className="far fa-clock"></i>
+				<i className="far fa-hourglass"></i>
 			</div>
 			<div className="four">{props.digitFour % 10}</div>
 			<div className="three">{props.hour % 10}</div>

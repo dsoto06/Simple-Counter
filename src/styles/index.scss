@@ -3,6 +3,9 @@
 .timer{
     text-align: center;
     background: black;
+    width: 30%;
+    margin: auto;
+    margin-top: 20%;
 }
 .timer div{
     display: inline-block;
@@ -12,4 +15,5 @@
     color: white;
     padding: 10px;
     margin: 3px;
+    
 }
